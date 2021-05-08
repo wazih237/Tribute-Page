@@ -132,8 +132,7 @@ html {
         font-size: 10px;
     }
 
-element.style {
-}
+
 @media (max-width: 460px)
 #main {
     margin: 0;
@@ -150,10 +149,7 @@ main {
     display: block;
 }
 @media (max-width: 460px)
-h1 {
-    font-size: 3.5rem;
-    line-height: 1.2;
-}
+
 h1 {
     font-size: 4rem;
     margin-bottom: 0;
@@ -164,6 +160,8 @@ h1 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.2;
 }
 p {
     display: block;
